@@ -1,0 +1,33 @@
+{
+  "name": "wc-doc",
+  "version": "0.0.0",
+  "description": "Web Component Documentation Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/coreybutler/wc-doc"
+  },
+  "keywords": [
+    "Web",
+    "Component",
+    "Documentation"
+  ],
+  "author": "Corey Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreybutler/wc-doc/issues"
+  },
+  "homepage": "https://github.com/coreybutler/wc-doc",
+  "dependencies": {
+    "wrench": "^1.5.8",
+    "esprima": "^1.2.2",
+    "comment-parser": "^0.1.2",
+    "htmlparser2": "^3.7.3",
+    "colors": "^0.6.2",
+    "css-parse": "^2.0.0",
+    "ejs": "^1.0.0"
+  }
+}
